@@ -1,5 +1,6 @@
-# Foodie Map 
-## What is [Foodie Map](https://kelden.shinyapps.io/foodie-map/)?
+# [Foodie Map](https://kelden.shinyapps.io/foodie-map/)
+
+## What is Foodie Map?
 Foodie Map is an application that utilizes Yelp’s API for food-focused (or traveling) individuals by displaying relevant restaurant trends in an area. By organizing the Yelp data, we strive to create an accessible food map for both tourists and locals to aid the search for quality restaurants. Unlike other services, this tool offers users the ability to visually see patterns in where restaurants can be compared by pricing, rating, and review counts.
 
 ## Using Foodie Map
@@ -25,4 +26,5 @@ Users can specify price ranges, minimum ratings, and restaurant cuisines via sel
 We believe that by visually representing restaurants's data, we will provide our users the data they wanted at a glance. For instance, they can see the price trend from our map and choose the area they believe is a good fit for their budget.
 
 
+#####
 Project by Kelden Lin, Emily Qiao, Chelsea Wang
