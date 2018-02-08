@@ -1,4 +1,4 @@
-#Foodie Map
+# Foodie Map
 ## What is Foodie Map?
 Foodie Map is an application that utilizes Yelp’s API for food-focused (or traveling) individuals by displaying relevant restaurant trends in an area. By organizing the Yelp data, we strive to create an accessible food map for both tourists and locals to aid the search for quality restaurants. Unlike other services, this tool offers users the ability to visually see patterns in where restaurants can be compared by pricing, rating, and review counts.
 
